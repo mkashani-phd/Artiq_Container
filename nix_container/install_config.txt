@@ -1,6 +1,0 @@
-# Full offline installer config (works non-interactively)
-Edition=Vitis Unified Software Platform
-Destination=/opt/Xilinx
-# If you need hardware tools too, add ",LabTools" below
-Modules=Vivado,LabTools
-InstallOptions=Install
